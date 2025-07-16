@@ -27,8 +27,8 @@ import { StudentDetailComponent } from './Components/student-detail/student-deta
 })
 export class AppComponent {
   students = [
-    { name: 'Amit', age: 21 },
-    { name: 'Sneha', age: 22 },
+    { name: 'Shubhi', age: 20 },
+    { name: 'Dhanraj', age: 20 },
     { name: 'Ravi', age: 23 }
   ];
 
